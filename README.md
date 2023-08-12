@@ -1,6 +1,8 @@
 # Projects Section of the Portfolio
 
+![Gallary Project ](./assets/image_4.png?raw=true " Gallary Project ")
 
+![Gallary Project ](./assets/image_1.png?raw=true " Gallary Project ")
 
 ## Project Overview
 
@@ -16,9 +18,13 @@ This section of my portfolio website showcases various projects I've worked on, 
 
 - React.js
 - React Router
-- CSS (you can mention any CSS frameworks if used)
+- UseState
+- UseEffect
+- Tailwind CSS 
 
 ## Screenshot of the WebPage... 
+![Gallary Project ](./assets/image_3.png?raw=true " Gallary Project ")
+![Gallary Project ](./assets/image_2.png?raw=true " Gallary Project ")
 
 
 ## Installation
