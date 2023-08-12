@@ -16,10 +16,8 @@ This section of my portfolio website showcases various projects I've worked on, 
 
 ## Technologies Used
 
-- React.js
+- React.js(UseState && UseEffect Concept used )
 - React Router
-- UseState
-- UseEffect
 - Tailwind CSS 
 
 ## Screenshot of the WebPage... 
