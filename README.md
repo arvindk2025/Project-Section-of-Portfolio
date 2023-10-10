@@ -11,7 +11,7 @@ This section of my portfolio website showcases various projects I've worked on, 
 ## Features
 
 - Display a grid of project cards.
-- Each project card includes project name, description, and links.
+- Each project card includes the project name, description, and links.
 - Responsive design to ensure an optimal viewing experience across devices.
 
 ## Technologies Used
